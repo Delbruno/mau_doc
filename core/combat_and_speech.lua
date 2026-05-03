@@ -1,3 +1,0 @@
--- combat and speech functionality
-
-
